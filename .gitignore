@@ -1,0 +1,7 @@
+# Claude Code が読み込むたびに置く型定義と tsconfig
+.claude-plugin/types/
+/tsconfig.json
+
+node_modules/
+.DS_Store
+Thumbs.db
